@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">Frontend developer who is a highly-skilled, adaptable, and quick learner who is team- oriented, takes responsibility and is actively seeking to expand his knowledge and skills through professional development opportunities.</h3>
+<h3 align="left">Frontend developer who is a highly-skilled, adaptable, and quick learner who is team- oriented, takes responsibility and is actively seeking to expand his knowledge and skills through professional development opportunities.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsingh72&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh72" /> </p>
 
