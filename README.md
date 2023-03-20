@@ -17,8 +17,9 @@
 <br/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex">
 <a href="https://www.linkedin.com/in/gauravsingh72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeLinkedin" height="30" width="40" /></a>
+<a href="https://gauravsingh72.github.io" target="blank"><img src="https://i.ibb.co/R2bzzd0/suitcase.png" alt="suitcase" border="0" height="30" margin-top="400px" width="40"></a>  
 </p>
 
 ## 🚀 Languages and Tools:
