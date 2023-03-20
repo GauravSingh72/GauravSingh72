@@ -16,10 +16,13 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" display="flex">
-<a href="https://www.linkedin.com/in/gauravsingh72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeLinkedin" height="30" width="40" /></a>
-<a href="https://gauravsingh72.github.io" target="blank"><img src="https://i.ibb.co/R2bzzd0/suitcase.png" alt="suitcase" border="0" height="30" margin-top="400px" width="40"></a>  
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<span align="left">
+  <a href="https://www.linkedin.com/in/devesh-kumar-mishra-58b481152/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a  href="mailto:devn5900@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://devn5900.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
+</span>
+<br />
 </p>
 
 ## 🚀 Languages and Tools:
