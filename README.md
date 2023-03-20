@@ -18,9 +18,9 @@
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <span align="left">
-  <a href="https://www.linkedin.com/in/devesh-kumar-mishra-58b481152/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a  href="mailto:devn5900@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="https://devn5900.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gauravsingh72/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a  href="gauravsinghwork72@@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://gauravsingh72.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
 </span>
 <br />
 </p>
