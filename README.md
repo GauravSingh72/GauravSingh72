@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *MERN Stack Devoloper*
 
-- 💬 Ask me about *React,JavaScript,Redux*
+- 💬 Ask me about *React, JavaScript, Redux*
 
 - 📫 How to reach me *gauravsinghwork72@gmail.com*
 - 🪪 Check My protfolio :- *https://gauravsingh72.github.io*
