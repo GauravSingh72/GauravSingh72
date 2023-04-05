@@ -11,6 +11,7 @@
 - 💬 Ask me about *React, JavaScript, Redux*
 - 📫 How to reach me *gauravsinghwork72@gmail.com*
 - 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1IaDqlnbpasqpYKWgKCiefdHVKkEduFNd/view?usp=share_link" alt="resume">Resume</a>
+- My Portfolio : <a href="https://gauravsingh72.github.io" target="_blank">Portfolio</a>
 <br/>
 <br/>
 
@@ -18,7 +19,6 @@
 <span align="left">
   <a href="https://www.linkedin.com/in/gauravsingh72/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a  href="gauravsinghwork72@@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="https://gauravsingh72.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
 </span>
 <br />
 </p>
