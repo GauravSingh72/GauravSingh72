@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *React, JavaScript, Redux*
 - 📫 How to reach me *gauravsinghwork72@gmail.com*
-- 📄 Know about my experiences:- <a href="https://1drv.ms/b/s!AnvBFbXD53Z9b8Qo68IOb1naAUA?e=VyXEav" alt="resume">Resume</a>
+- 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/16CAVVxgfaoRQzTMy1QgqQi6_k2ekwjd1/view?usp=sharing" alt="resume">Resume</a>
 - 👨‍💻 All of my Projects are available at [My Portfolio](https://GauravSingh72.github.io/)
 <br/>
 <br/>
